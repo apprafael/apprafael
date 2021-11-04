@@ -2,6 +2,13 @@
 
 [![codewars](https://www.codewars.com/users/apprafael/badges/large)](https://www.codewars.com/users/apprafael)
 
+<a href="https://github.com/apprafael/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apprafael&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+
+<a href="https://github.com/apprafael/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apprafael&layout=compact&theme=radical&hide_border=false" />
+</a>
 <!--
 **apprafael/apprafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
