@@ -4,7 +4,7 @@
 [![codewars](https://www.codewars.com/users/apprafael/badges/large)](https://www.codewars.com/users/apprafael)
 
 ## leetcode
-![leetcode](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?logo=leetcode&label=apprafael&style=for-the-badge&color=green)
+[![leetcode](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?logo=leetcode&label=apprafael&style=for-the-badge&color=green)](https://leetcode.com/apprafael)
 
 ## Status
 <a href="https://github.com/apprafael/">
