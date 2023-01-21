@@ -2,6 +2,8 @@
 
 [![codewars](https://www.codewars.com/users/apprafael/badges/large)](https://www.codewars.com/users/apprafael)
 
+![codewars](https://badges.peiyuan.ch/leetcode/puiiyuen/ranking?logo=leetcode&label=apprafael&style=for-the-badge&color=green)
+
 <a href="https://github.com/apprafael/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=apprafael&count_private=true&show_icons=true&theme=radical&hide_border=false" />
 </a> 
